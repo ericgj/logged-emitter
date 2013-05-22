@@ -19,7 +19,7 @@ function on(event,fn){
 };
 
 /** Return array of `[event, target, spy]`
- *  in the order callbacks fired.
+ *  in the order callbacks defined.
  *  
  *  Filtered by event, if passed
  */
