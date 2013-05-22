@@ -1,0 +1,16 @@
+{
+  "name": "logged-emitter",
+  "repo": "ericgj/logged-emitter",
+  "description": "Emitter, with fired event introspection (built on component/emitter)",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/emitter": "*",
+    "ericgj/minispy": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
